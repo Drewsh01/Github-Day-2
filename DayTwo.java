@@ -3,7 +3,7 @@ public class DayTwo{
 
 	System.out.println("It's Day Two");
 
-
+	System.out.println("Yay!");
 	}
 }
 
